@@ -1,0 +1,12 @@
+{
+  "name": "Jaro-Winkler",
+  "description": "A javascript implementation of Jaro-Winkler",
+  "author": "Zac Sutton",
+  "main": "index.js",
+  "devDependencies": {
+    "jasmine": "^2.2.1"
+  },
+  "scripts": {
+  	"test": "jasmine-node spec"
+  }
+}
