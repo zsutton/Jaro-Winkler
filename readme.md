@@ -15,3 +15,4 @@ JaroWinkler.get("Martha", "Marhta") // .96
 ## Notes
 
 The prefix length and scaling factor are both set at 4 and .1 respectively. The prefix bonus (better scores for strings that share common early characters) is applied in all cases. 
+
